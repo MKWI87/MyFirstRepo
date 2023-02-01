@@ -1,2 +1,2 @@
 # MyFirstRepo
-Training
+Paragon z warzywniaka
